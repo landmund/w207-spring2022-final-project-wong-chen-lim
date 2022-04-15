@@ -1,11 +1,11 @@
 W207 WBL 007 - Spring 2022 - Final Project
 
-This repository containts the following:
-- Final project report - .pdf
+This repository contains the following:
+- Final project report - Final Report.pdf
 - Final project slides - Final Presentation Slides.pdf
 - The Python code used
 
-The Python code is labeld by the four (4) phases of the experiment and includes the pre-processing used for the images:
+The Python code is labeled by the four (4) phases of the experiment and includes the pre-processing used for the images:
 
 Phase 0:
 -> P0_Generate_Sample_Dataset.ipynb
