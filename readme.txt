@@ -17,4 +17,7 @@ Phase 2 -> P2_CNN_Species.ipynb
 
 Phase 3 -> P3_Xception_CNN.ipynb
 
-Phase 4 -> P4_Hybrid_Model_POC.ipynb
+Phase 4:
+-> P4_Hybrid_Model_POC.ipynb
+-> P4-hybrid-model-combined-beluga-poc.ipynb
+-> P4-predicted-belugas-eval.ipynb
